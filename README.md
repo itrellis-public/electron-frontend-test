@@ -1,6 +1,10 @@
 
 ## Test
-* Create an electron applicaton that will use react and typescript for rendering
+### This does not have to be a pretty presentation
+
+A very basic implementation for everything below is fine. Do not spend time trying to make the views pretty. This project is not judging CSS / third party componenet library usage.
+
+* Create an electron applicaton that will use react and typescript for rendering.
     * You can use a boilerplate project if you want
 * [Install three.js](https://threejs.org/docs/index.html#manual/en/introduction/Installation)
     * Yes, there is a library you can use for threejs and react. For the purposes of this test this will not be an option
