@@ -1,0 +1,24 @@
+{
+    "data": [
+      { "year": 2014, "average_income": 40000, "low_income": 30000, "high_income": 50000 },
+      { "year": 2015, "average_income": 42000, "low_income": 32000, "high_income": 52000 },
+      { "year": 2016, "average_income": 45000, "low_income": 35000, "high_income": 55000 },
+      { "year": 2017, "average_income": 48000, "low_income": 38000, "high_income": 58000 },
+      { "year": 2018, "average_income": 50000, "low_income": 40000, "high_income": 60000 },
+      { "year": 2019, "average_income": 52000, "low_income": 42000, "high_income": 62000 },
+      { "year": 2020, "average_income": 49000, "low_income": 39000, "high_income": 59000 },
+      { "year": 2021, "average_income": 51000, "low_income": 41000, "high_income": 61000 },
+      { "year": 2022, "average_income": 53000, "low_income": 43000, "high_income": 63000 },
+      { "year": 2023, "average_income": 55000, "low_income": 45000, "high_income": 65000 },
+      { "year": 2024, "average_income": 56000, "low_income": 46000, "high_income": 66000 },
+      { "year": 2025, "average_income": 58000, "low_income": 48000, "high_income": 68000 },
+      { "year": 2026, "average_income": 60000, "low_income": 50000, "high_income": 70000 },
+      { "year": 2027, "average_income": 62000, "low_income": 52000, "high_income": 72000 },
+      { "year": 2028, "average_income": 64000, "low_income": 54000, "high_income": 74000 },
+      { "year": 2029, "average_income": 66000, "low_income": 56000, "high_income": 76000 },
+      { "year": 2030, "average_income": 68000, "low_income": 58000, "high_income": 78000 },
+      { "year": 2031, "average_income": 70000, "low_income": 60000, "high_income": 80000 },
+      { "year": 2032, "average_income": 72000, "low_income": 62000, "high_income": 82000 },
+      { "year": 2033, "average_income": 74000, "low_income": 64000, "high_income": 84000 }
+    ]
+  }
